@@ -1,0 +1,16 @@
+{
+  "customers":[
+  {
+    "firstname": "zaid",
+    "lastname": "youssef",
+    "email": "ziad@gmail.com",
+    "password": "1234ziad"
+  },
+    {
+      "firstname": "",
+      "lastname": "hamed",
+      "email": "Hamed@gmail.com",
+      "password": "1234hamed"
+    }
+]
+}
